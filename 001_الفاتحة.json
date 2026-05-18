@@ -1,0 +1,26 @@
+{
+  "1": [
+    {
+      "surah": "الفاتحة",
+      "surahNum": 1,
+      "num": 1,
+      "rects": [
+        {
+          "x": 25.47,
+          "y": 29.84,
+          "w": 50,
+          "h": 5.04
+        }
+      ],
+      "ahkam": [
+        {
+          "id": "ahk_1779129784122_1kxxk",
+          "category": "تفخيم/ترقيق",
+          "name": "ghkfg",
+          "word": "rgrthrt",
+          "desc": "thwtht"
+        }
+      ]
+    }
+  ]
+}
